@@ -153,6 +153,10 @@ public class DefaultFurnitureCatalog extends FurnitureCatalog {
      */
     WIDTH("width"),
     /**
+     * The key for the volume in cube centimeters of a piece of furniture (mandatory).
+     */
+    VOLUME("volume"),
+    /**
      * The key for the depth in centimeters of a piece of furniture (mandatory).
      */
     DEPTH("depth"),
